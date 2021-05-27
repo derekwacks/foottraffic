@@ -1,4 +1,4 @@
-# foottraffic 
+# FootTraffic 
 ## (in progress)
 
 * Google Nest Cameras trigger a motion detection event (using the Google developer API)
