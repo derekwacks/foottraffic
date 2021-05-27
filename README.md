@@ -7,3 +7,10 @@
 * Resulting image labels are then emailed to the user with an attached image from the event
 
 Code is continuously built and deployed to Lambda instances using AWS CodePipeline
+
+
+
+
+## TODO
+* Note: samTemplate.yaml is missing (contains env vars)
+* gateway setup
