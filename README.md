@@ -6,4 +6,4 @@
 * These images are then processed using AWS Recognition in a serverless Lambda function (accessed through AWS API Gateway)
 * Resulting image labels are then emailed to the user 
 
-Code is continuously built and deployed to Lambda instances using a AWS CodePipeline
+Code is continuously built and deployed to Lambda instances using AWS CodePipeline
