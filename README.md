@@ -12,5 +12,5 @@ Code is continuously built and deployed to Lambda instances using AWS CodePipeli
 
 
 ## TODO
-* Note: samTemplate.yaml is missing (contains env vars)
+* Note: samTemplate.yaml is missing from repo (contains env vars)
 * gateway setup
